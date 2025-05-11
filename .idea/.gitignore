@@ -1,3 +1,20 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Ignore all the files in idea
+.idea/*
+
+# include modules.xml in idea
+!.idea/modules.xml
+
+# Ignore Maven build output
+target/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
