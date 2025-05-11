@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+git <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ModularCoding.iml" filepath="$PROJECT_DIR$/.idea/ModularCoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example_1/example_1.iml" filepath="$PROJECT_DIR$/example_1/example_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example_2/example_2.iml" filepath="$PROJECT_DIR$/example_2/example_2.iml" />
     </modules>
   </component>
 </project>
